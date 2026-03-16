@@ -1,0 +1,8 @@
+# Gas Town crew workspace artifacts
+.runtime/
+.claude/
+.logs/
+.beads/
+mail/
+state.json
+__pycache__/
